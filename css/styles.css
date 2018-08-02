@@ -1,14 +1,31 @@
 ul{
   text-align: center;
 }
-h2{
+h2.tropical{
   text-align: center;
   font-weight: bold;
+  color: #f7325e;
 }
 h1{
+  font-family:fantasy;
   text-align: center;
   font-weight: bolder;
+  color: ;
 }
-li{
+ul.tropical{
+  color: #7dc410;
+  font-family: fantasy;
+}
+
+h2.popular{
+  text-align: center;
   font-weight: bold;
+  color: #f7335f
+}
+ul.popular{
+  color: #7dd412;
+  font-family: fantasy;
+}
+html{
+  background-color: grey;
 }
